@@ -1,4 +1,4 @@
-import ButtonCellComponent from "./buttonCell.svelte";
+import ButtonCellComponent from "./ButtonCellComponent.svelte";
 
 // AG Grid requires a class that implements the ICellRenderer interface
 // So we need to create a class that renders the Svelte component into a div
